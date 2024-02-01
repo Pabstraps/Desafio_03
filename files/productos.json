@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Consola PS5",
+    "description": "Version Standard 815GB",
+    "price": 10500,
+    "thumbnail": "http://ps5.jpg",
+    "code": 784469513878,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "title": "Control Xbox Series",
+    "description": "Carbon Black",
+    "price": 1200,
+    "thumbnail": "http://controlXbox.jpg",
+    "code": 484184887665,
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "title": "Mica de cristal para Nintendo Switch",
+    "description": "Protector para consola",
+    "price": 250,
+    "thumbnail": "http://Crystalscreen.jpg",
+    "code": 42983572934,
+    "stock": 17
+  },
+  {
+    "id": 4,
+    "title": "Ryzen 7 5800X",
+    "description": "procesador para computadora",
+    "price": 4500,
+    "thumbnail": "http://AMD.jpg",
+    "code": 784469513878,
+    "stock": 8
+  },
+  {
+    "id": 1,
+    "title": "Consola PS5",
+    "description": "Version Standard 815GB",
+    "price": 10500,
+    "thumbnail": "http://ps5.jpg",
+    "code": 784469513878,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "title": "Control Xbox Series",
+    "description": "Carbon Black",
+    "price": 1200,
+    "thumbnail": "http://controlXbox.jpg",
+    "code": 484184887665,
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "title": "Mica de cristal para Nintendo Switch",
+    "description": "Protector para consola",
+    "price": 250,
+    "thumbnail": "http://Crystalscreen.jpg",
+    "code": 42983572934,
+    "stock": 17
+  },
+  {
+    "id": 4,
+    "title": "Ryzen 7 5800X",
+    "description": "procesador para computadora",
+    "price": 4500,
+    "thumbnail": "http://AMD.jpg",
+    "code": 784469513878,
+    "stock": 8
+  }
+]
